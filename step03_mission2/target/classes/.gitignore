@@ -1,0 +1,9 @@
+/.classpath
+/.project
+/.settings/
+/META-INF/
+/bin/
+/log4j2.properties
+/model/
+/pom.xml
+/target/
